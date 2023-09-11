@@ -1,0 +1,13 @@
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* This will make the container take up the full viewport height */
+  }
+  
+  .card-container {
+    display: flex;
+    gap: 20px; /* Adjust the spacing between cards as needed */
+  }
+  
